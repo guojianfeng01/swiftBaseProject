@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  SwiftBaseProject
+//  ManaLoanSwift
 //
-//  Created by guojianfeng on 2017/6/12.
+//  Created by guojianfeng on 2017/6/1.
 //  Copyright © 2017年 guojianfeng. All rights reserved.
 //
 

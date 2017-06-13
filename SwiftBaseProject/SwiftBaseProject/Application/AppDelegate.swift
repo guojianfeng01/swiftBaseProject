@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SwiftBaseProject
+//  ManaLoanSwift
 //
-//  Created by guojianfeng on 2017/6/12.
+//  Created by guojianfeng on 2017/6/1.
 //  Copyright © 2017年 guojianfeng. All rights reserved.
 //
 
@@ -16,6 +16,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        let tabBarVc = MLTabBarController()
+        self.window?.rootViewController = tabBarVc;
+        self.window?.backgroundColor = UIColor.white
+        self.window?.makeKeyAndVisible()
         return true
     }
 
