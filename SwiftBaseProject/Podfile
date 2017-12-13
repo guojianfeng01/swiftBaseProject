@@ -6,4 +6,5 @@ target 'SwiftBaseProject' do
   use_frameworks!
 	pod 'SnapKit'
 	pod 'iCarousel'
+    pod 'Alamofire'
 end

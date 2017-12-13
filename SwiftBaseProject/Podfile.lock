@@ -1,15 +1,18 @@
 PODS:
+  - Alamofire (4.4.0)
   - iCarousel (1.8.3)
   - SnapKit (3.2.0)
 
 DEPENDENCIES:
+  - Alamofire
   - iCarousel
   - SnapKit
 
 SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
   iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
   SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
 
-PODFILE CHECKSUM: 65709755f527d7b9805756cac10f63e5e1eea436
+PODFILE CHECKSUM: 40cada37a6cdf8649cc0a891f5e2400546c90df1
 
 COCOAPODS: 1.2.1
